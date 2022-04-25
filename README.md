@@ -33,7 +33,6 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint**
 * Set the leading of the `h1` element to 1.2 × the `h1` font size.
 * Set the top and bottom padding of the images to 15 pixels. (**Exclude the arrow images from this rule.**)
 * Set the left and right padding of the images to 18 pixels. (**Exclude the arrow images from this rule.**)
-* You’re free to modify any of the `.gitignore` files to your needs.
 
 ### HTML
 * Place *all* your markup in `index.html`.
