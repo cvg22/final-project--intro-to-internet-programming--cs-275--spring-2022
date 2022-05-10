@@ -1,10 +1,4 @@
-/*
-It is used a variable hosting here because, if you try to do it with let
-you loose the value of slideIndex so it will never advance through the
-slides. Therefore, I use var so I do not loose the value of the slideIndex,
-because once is declared you can modify its value and it will work.
-*/
-var slideIndex = 0;
+let slideIndex = 0;
 
 let advanceSlides = (parameterSlide) => {
     slideIndex += parameterSlide;
